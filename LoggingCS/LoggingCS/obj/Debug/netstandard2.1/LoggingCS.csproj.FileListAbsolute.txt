@@ -1,0 +1,10 @@
+C:\Users\Luis\source\repos\Trading Project\LoggingCS\LoggingCS\bin\Debug\netstandard2.1\TradingEngineServer.Logging.deps.json
+C:\Users\Luis\source\repos\Trading Project\LoggingCS\LoggingCS\bin\Debug\netstandard2.1\TradingEngineServer.Logging.dll
+C:\Users\Luis\source\repos\Trading Project\LoggingCS\LoggingCS\bin\Debug\netstandard2.1\TradingEngineServer.Logging.pdb
+C:\Users\Luis\source\repos\Trading Project\LoggingCS\LoggingCS\obj\Debug\netstandard2.1\LoggingCS.csproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\Trading Project\LoggingCS\LoggingCS\obj\Debug\netstandard2.1\LoggingCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\source\repos\Trading Project\LoggingCS\LoggingCS\obj\Debug\netstandard2.1\LoggingCS.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\Trading Project\LoggingCS\LoggingCS\obj\Debug\netstandard2.1\LoggingCS.AssemblyInfo.cs
+C:\Users\Luis\source\repos\Trading Project\LoggingCS\LoggingCS\obj\Debug\netstandard2.1\LoggingCS.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\Trading Project\LoggingCS\LoggingCS\obj\Debug\netstandard2.1\TradingEngineServer.Logging.dll
+C:\Users\Luis\source\repos\Trading Project\LoggingCS\LoggingCS\obj\Debug\netstandard2.1\TradingEngineServer.Logging.pdb
